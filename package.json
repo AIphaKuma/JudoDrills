@@ -1,5 +1,5 @@
 {
-  "name": "JudoDrills",
+  "name": "judodrills",
   "version": "0.0.1",
   "description": "Le package npm a pour but de transcrire des mouvements de judo. Il s'agit d'une bibliothèque  conçu pour aider à reproduire les mouvements.",
   "scripts": {

@@ -1,15 +1,163 @@
 [
     {
-        "nom": "Uchi Mata",
-        "positions": {
-            "debut": {
-                "tori": { "tete": { "x": 100, "y": 50 } },
-                "uke": { "tete": { "x": 150, "y": 50 } }
+        "name": "Ouchi Gari",
+        "steps": [
+            {
+                "description": "Initial Position",
+                "tori": {
+                    "head": { "x": 100, "y": 40 },
+                    "neck": { "x": 100, "y": 55 },
+                    "chest": { "x": 100, "y": 70 },
+                    "leftShoulder": { "x": 90, "y": 70 },
+                    "rightShoulder": { "x": 110, "y": 70 },
+                    "leftElbow": { "x": 80, "y": 90 },
+                    "rightElbow": { "x": 120, "y": 90 },
+                    "leftWrist": { "x": 75, "y": 110 },
+                    "rightWrist": { "x": 125, "y": 110 },
+                    "pelvis": { "x": 100, "y": 130 },
+                    "leftHip": { "x": 95, "y": 130 },
+                    "rightHip": { "x": 105, "y": 130 },
+                    "leftKnee": { "x": 95, "y": 170 },
+                    "rightKnee": { "x": 105, "y": 170 },
+                    "leftAnkle": { "x": 95, "y": 200 },
+                    "rightAnkle": { "x": 105, "y": 200 }
+                },
+                "uke": {
+                    "head": { "x": 200, "y": 40 },
+                    "neck": { "x": 200, "y": 55 },
+                    "chest": { "x": 200, "y": 70 },
+                    "leftShoulder": { "x": 190, "y": 70 },
+                    "rightShoulder": { "x": 210, "y": 70 },
+                    "leftElbow": { "x": 180, "y": 90 },
+                    "rightElbow": { "x": 220, "y": 90 },
+                    "leftWrist": { "x": 175, "y": 110 },
+                    "rightWrist": { "x": 225, "y": 110 },
+                    "pelvis": { "x": 200, "y": 130 },
+                    "leftHip": { "x": 195, "y": 130 },
+                    "rightHip": { "x": 205, "y": 130 },
+                    "leftKnee": { "x": 195, "y": 170 },
+                    "rightKnee": { "x": 205, "y": 170 },
+                    "leftAnkle": { "x": 195, "y": 200 },
+                    "rightAnkle": { "x": 205, "y": 200 }
+                }
             },
-            "fin": {
-                "tori": { "tete": { "x": 100, "y": 50 } },
-                "uke": { "tete": { "x": 150, "y": 100 } }
+            {
+                "description": "Movement Entry",
+                "tori": {
+                    "head": { "x": 100, "y": 40 },
+                    "neck": { "x": 100, "y": 55 },
+                    "chest": { "x": 100, "y": 70 },
+                    "leftShoulder": { "x": 90, "y": 70 },
+                    "rightShoulder": { "x": 110, "y": 70 },
+                    "leftElbow": { "x": 80, "y": 90 },
+                    "rightElbow": { "x": 120, "y": 90 },
+                    "leftWrist": { "x": 75, "y": 110 },
+                    "rightWrist": { "x": 125, "y": 110 },
+                    "pelvis": { "x": 100, "y": 130 },
+                    "leftHip": { "x": 95, "y": 130 },
+                    "rightHip": { "x": 105, "y": 130 },
+                    "leftKnee": { "x": 90, "y": 165 },
+                    "rightKnee": { "x": 105, "y": 170 },
+                    "leftAnkle": { "x": 90, "y": 195 },
+                    "rightAnkle": { "x": 105, "y": 200 }
+                },
+                "uke": {
+                    "head": { "x": 200, "y": 40 },
+                    "neck": { "x": 200, "y": 55 },
+                    "chest": { "x": 200, "y": 70 },
+                    "leftShoulder": { "x": 190, "y": 70 },
+                    "rightShoulder": { "x": 210, "y": 70 },
+                    "leftElbow": { "x": 180, "y": 90 },
+                    "rightElbow": { "x": 220, "y": 90 },
+                    "leftWrist": { "x": 175, "y": 110 },
+                    "rightWrist": { "x": 225, "y": 110 },
+                    "pelvis": { "x": 200, "y": 130 },
+                    "leftHip": { "x": 195, "y": 130 },
+                    "rightHip": { "x": 205, "y": 130 },
+                    "leftKnee": { "x": 200, "y": 175 },
+                    "rightKnee": { "x": 210, "y": 175 },
+                    "leftAnkle": { "x": 200, "y": 205 },
+                    "rightAnkle": { "x": 210, "y": 205 }
+                }
+            },
+            {
+                "description": "Sweeping",
+                "tori": {
+                    "head": { "x": 100, "y": 40 },
+                    "neck": { "x": 100, "y": 55 },
+                    "chest": { "x": 100, "y": 70 },
+                    "leftShoulder": { "x": 90, "y": 70 },
+                    "rightShoulder": { "x": 110, "y": 70 },
+                    "leftElbow": { "x": 80, "y": 90 },
+                    "rightElbow": { "x": 120, "y": 90 },
+                    "leftWrist": { "x": 75, "y": 110 },
+                    "rightWrist": { "x": 125, "y": 110 },
+                    "pelvis": { "x": 100, "y": 130 },
+                    "leftHip": { "x": 95, "y": 130 },
+                    "rightHip": { "x": 105, "y": 130 },
+                    "leftKnee": { "x": 85, "y": 160 },
+                    "rightKnee": { "x": 105, "y": 170 },
+                    "leftAnkle": { "x": 85, "y": 190 },
+                    "rightAnkle": { "x": 105, "y": 200 }
+                },
+                "uke": {
+                    "head": { "x": 200, "y": 50 },
+                    "neck": { "x": 200, "y": 65 },
+                    "chest": { "x": 200, "y": 80 },
+                    "leftShoulder": { "x": 190, "y": 80 },
+                    "rightShoulder": { "x": 210, "y": 80 },
+                    "leftElbow": { "x": 180, "y": 100 },
+                    "rightElbow": { "x": 220, "y": 100 },
+                    "leftWrist": { "x": 175, "y": 120 },
+                    "rightWrist": { "x": 225, "y": 120 },
+                    "pelvis": { "x": 200, "y": 140 },
+                    "leftHip": { "x": 195, "y": 140 },
+                    "rightHip": { "x": 205, "y": 140 },
+                    "leftKnee": { "x": 200, "y": 185 },
+                    "rightKnee": { "x": 210, "y": 185 },
+                    "leftAnkle": { "x": 200, "y": 215 },
+                    "rightAnkle": { "x": 210, "y": 215 }
+                }
+            },
+            {
+                "description": "End of Movement",
+                "tori": {
+                    "head": { "x": 100, "y": 40 },
+                    "neck": { "x": 100, "y": 55 },
+                    "chest": { "x": 100, "y": 70 },
+                    "leftShoulder": { "x": 90, "y": 70 },
+                    "rightShoulder": { "x": 110, "y": 70 },
+                    "leftElbow": { "x": 80, "y": 90 },
+                    "rightElbow": { "x": 120, "y": 90 },
+                    "leftWrist": { "x": 75, "y": 110 },
+                    "rightWrist": { "x": 125, "y": 110 },
+                    "pelvis": { "x": 100, "y": 130 },
+                    "leftHip": { "x": 95, "y": 130 },
+                    "rightHip": { "x": 105, "y": 130 },
+                    "leftKnee": { "x": 95, "y": 170 },
+                    "rightKnee": { "x": 105, "y": 170 },
+                    "leftAnkle": { "x": 95, "y": 200 },
+                    "rightAnkle": { "x": 105, "y": 200 }
+                },
+                "uke": {
+                    "head": { "x": 200, "y": 100 },
+                    "neck": { "x": 200, "y": 115 },
+                    "chest": { "x": 200, "y": 130 },
+                    "leftShoulder": { "x": 190, "y": 130 },
+                    "rightShoulder": { "x": 210, "y": 130 },
+                    "leftElbow": { "x": 180, "y": 150 },
+                    "rightElbow": { "x": 220, "y": 150 },
+                    "leftWrist": { "x": 175, "y": 170 },
+                    "rightWrist": { "x": 225, "y": 170 },
+                    "pelvis": { "x": 200, "y": 190 },
+                    "leftHip": { "x": 195, "y": 190 },
+                    "rightHip": { "x": 205, "y": 190 },
+                    "leftKnee": { "x": 195, "y": 230 },
+                    "rightKnee": { "x": 205, "y": 230 },
+                    "leftAnkle": { "x": 195, "y": 260 },
+                    "rightAnkle": { "x": 205, "y": 260 }
+                }
             }
-        }
+        ]
     }
 ]
