@@ -1,0 +1,15 @@
+[
+    {
+        "nom": "Uchi Mata",
+        "positions": {
+            "debut": {
+                "tori": { "tete": { "x": 100, "y": 50 } },
+                "uke": { "tete": { "x": 150, "y": 50 } }
+            },
+            "fin": {
+                "tori": { "tete": { "x": 100, "y": 50 } },
+                "uke": { "tete": { "x": 150, "y": 100 } }
+            }
+        }
+    }
+]
