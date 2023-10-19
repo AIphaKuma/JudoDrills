@@ -3,6 +3,8 @@
 
 JudoDrills est un package npm conçu pour afficher les positions de judo en 2D à l'aide de D3JS , pendant les replays des Jeux Olympiques sur les sites de sport. À l'aide de ce package, les fans de sport peuvent avoir un aperçu visuel enrichi et une meilleure compréhension des mouvements et positions utilisés pendant les combats.
 
+<img width="351" alt="logo" src="https://github.com/AIphaKuma/JudoDrills/assets/117074766/4419a470-9ebd-4ab9-b380-316a25ffbd5c"> 
+
 
 Table des matières:
 
