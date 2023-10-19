@@ -25,8 +25,11 @@ Pour installer judoDrills, utilisez la commande suivante:
 
 
 Utilisation : 
+Avant de visualiser une position de judo, vous devez d'abord créer des données pour cette position.
+<img width="707" alt="utilisation1" src="https://github.com/AIphaKuma/JudoDrills/assets/117074766/7d149a42-478c-4de4-95d7-71ebc20a3e08">  
 
-
+Une fois que vous avez les données de position, vous pouvez créer une visualisation :
+<img width="707" alt="utilisation" src="https://github.com/AIphaKuma/JudoDrills/assets/117074766/43c3234b-8a29-404d-ba33-5ed7065ab121"> 
 
 
 
