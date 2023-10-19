@@ -4,6 +4,9 @@ node-modules/
 .DS_Store/
 .cache/
 .dist/
+.github/
+dist/
+tests/
 
 npm-debug.log*
 *.tmp
