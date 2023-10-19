@@ -17,7 +17,8 @@ Contact
 Historique des versions 
 
 
-Installation: 
+Installation:  
+<img width="553" alt="Install" src="https://github.com/AIphaKuma/JudoDrills/assets/117074766/a568e176-5f3e-4cee-9ed9-2d01da723879">
 
 Pour installer judoDrills, utilisez la commande suivante:
 npm install judodrills
