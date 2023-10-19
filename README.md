@@ -17,11 +17,12 @@ Contact
 Historique des versions 
 
 
-Installation:  
-<img width="552" alt="Install" src="https://github.com/AIphaKuma/JudoDrills/assets/117074766/cfd08acb-d3dc-4f5e-bc9e-5e07e88118a3">
+Installation: 
 
 Pour installer judoDrills, utilisez la commande suivante:
-npm install judodrills
+<img width="552" alt="Install" src="https://github.com/AIphaKuma/JudoDrills/assets/117074766/cfd08acb-d3dc-4f5e-bc9e-5e07e88118a3">
+
+
 
 Utilisation : 
 
@@ -32,7 +33,8 @@ Utilisation :
 Tests: 
 
 Ce projet utilise Jest pour les tests. Pour exécuter les tests, lancez la commande:
-npm test 
+<img width="553" alt="test" src="https://github.com/AIphaKuma/JudoDrills/assets/117074766/3c32e95c-42d7-4151-9261-11caf9cc59cf">
+
 
 
 
