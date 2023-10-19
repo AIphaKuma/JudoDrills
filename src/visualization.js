@@ -1,6 +1,4 @@
 import * as d3 from 'd3';
-
-// Supposons que vos données sont importées comme ceci :
 import movements from './data/movements.json';
 
 const svg = d3.select("body").append("svg")
@@ -15,7 +13,6 @@ function drawLine(person, pointA, pointB) {
         .attr("y2", person[pointB].y)
         .attr("stroke", "black");
 }
-
 function drawMovement(stepData) {
     svg.selectAll("*").remove();  // Clear previous drawings
 
@@ -36,6 +33,7 @@ function drawMovement(stepData) {
     });
 }
 
+
 // Visualize the entire movement with transitions
 let currentStep = 0;
 export function visualizeMovement() {
@@ -46,4 +44,3 @@ export function visualizeMovement() {
     }
 }
 
-visualizeMovement();
